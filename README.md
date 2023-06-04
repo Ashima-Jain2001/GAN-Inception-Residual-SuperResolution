@@ -1,5 +1,5 @@
 # GAN-Inception-Residual-SR
-This is a GAN with Residual blocks and Inception modules in the Generator and Discriminator networks for Image Super Resolution (SR).
+This is a Generative Adversarial Network with Residual blocks and Inception modules in the Generator and Discriminator networks for Image Super Resolution (SR).
 
 * SR8_Demonstration.ipynb---Python code for demostration of super resolution
 * SR8_Final_Implementation.ipynb---Python code for model implementation and training
