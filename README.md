@@ -9,3 +9,4 @@
 * hr2.zip---dataset file---contains next 401-800 hr images
 * hr3.zip---dataset file---contains next set of 801-1200 hr images
 * lr.zip---dataset file---contains 1200 low resolution (lr) images
+* SET14 dataset for testing super resolution model performance
